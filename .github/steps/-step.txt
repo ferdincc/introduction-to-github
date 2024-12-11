@@ -1,1 +1,2 @@
-0
+!pip install transformers datasets faiss-gpu
+!pip install faiss-cpu
